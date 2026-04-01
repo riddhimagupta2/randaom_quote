@@ -276,7 +276,7 @@ class _AnimatedButtonState extends State<_AnimatedButton> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Next Quote",
+                "New Quote",
                 style: GoogleFonts.georama(
                   fontSize: 15,
                   letterSpacing: 1.2,
